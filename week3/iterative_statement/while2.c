@@ -4,8 +4,6 @@ int main(void){
     int blanks=0, digits=0, letters=0, others=0;
     int c; // use for int value of character
     
-    printf("Enter text (Ctrl+D or Ctrl+Z then Enter to end): ");
-
     while((c = getchar()) != EOF){
         //getchar() returns the next character from the input. It is equivalent to fgetc(stdin). 
 
