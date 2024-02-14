@@ -29,3 +29,6 @@ This repository is dedicated to learning C and C++ programming languages.
 | `%X`             | Unsigned hexadecimal integer (uppercase)             |
 | `%o`             | Unsigned octal                                       |
 | `%%`             | Percent sign                                         |
+| `%lu`            | Unsigned long integer                                |
+| `%lf`            | Double precision floating-point number               |
+| `%p`             | Pointer address                                      |
