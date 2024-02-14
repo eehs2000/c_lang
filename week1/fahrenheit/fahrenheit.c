@@ -6,7 +6,8 @@
 
 #include <stdio.h>
 
-int main(void){
+int main(void)
+{
     int fahrenheit, celsius;
     printf("Enter temperature in fahrenheit: ");
     scanf("%d", &fahrenheit);
