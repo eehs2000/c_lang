@@ -16,5 +16,8 @@ int main(void){
     else if(weather == 1){
         printf("You need an umbrella today\n");
     }
+    else{
+        printf("sorry, I don't understand that\n");
+    }
     return 0;
 }
