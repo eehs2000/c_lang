@@ -1,1 +1,1 @@
-<h1>Learn C</h1>
+<h1>Learn C and C++</h1>
